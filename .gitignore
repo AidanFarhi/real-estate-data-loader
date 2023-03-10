@@ -1,0 +1,6 @@
+venv
+.env
+raw_data
+*.ipynb
+jupyter-venv
+jars
